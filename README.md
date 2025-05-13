@@ -53,7 +53,8 @@ class MovieAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/5a4f94f4-418e-4691-9bd8-1018ee22ddb3)
+![image](https://github.com/user-attachments/assets/4d8f231d-fa75-4311-b0d9-77d986f10346)
+
 
 
 ## RESULT
